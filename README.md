@@ -1,9 +1,3 @@
-<!-- DRAFT for the public release repository github.com/Daniiel18/SimFleet. Not published. -->
-
-<p align="center">
-  <img src="media/cover.png" alt="SimFleet" width="720">
-</p>
-
 # SimFleet
 
 **A Windows companion for Microsoft Flight Simulator 2020 and 2024: manage your Community folder, log every flight automatically, and keep a maintenance log whose failures show up in the aircraft.**
@@ -36,12 +30,6 @@ Get **`SimFleet_<version>_x64-setup.exe`** from the [latest release](https://git
 **Integrations**
 - SimBrief (flight plans and dispatch), GSX Pro, TechLog, Discord status, optional Google Drive sync to your own Drive.
 - AMD Adrenalin fix for MSFS: keeps the recording microphone, the MSFS detection and your saved graphics settings.
-
-## Screenshots
-
-| Dashboard | FlightBook | Hangar |
-|---|---|---|
-| ![Dashboard](media/dashboard.png) | ![FlightBook](media/flightbook.png) | ![Hangar](media/hangar.png) |
 
 ## Requirements
 
