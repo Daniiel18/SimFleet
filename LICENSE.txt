@@ -1,0 +1,39 @@
+SimFleet — End-User Licence
+Copyright (c) 2026 Daniel Espinal (@Daniiel18). All Rights Reserved.
+
+SimFleet (the "Software") is free of charge and closed source.
+
+You may download the installer from the official releases
+(https://github.com/Daniiel18/SimFleet/releases), install it and use the
+Software for personal purposes.
+
+You may NOT, in whole or in part: sell, rent or redistribute the Software or
+its installer; publish modified or repackaged copies; or decompile,
+disassemble or otherwise reverse engineer it, except where the law expressly
+allows it.
+
+DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT. YOU USE THE
+SOFTWARE ENTIRELY AT YOUR OWN RISK.
+
+LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE, INCLUDING LOSS OF DATA
+OR DAMAGE TO SIMULATORS, ADD-ONS, HARDWARE OR OTHER SOFTWARE.
+
+UNOFFICIAL / NOT AFFILIATED
+
+SimFleet is an independent project. It is not affiliated with, endorsed by,
+sponsored by or associated with Microsoft, Asobo Studio, Xbox Game Studios,
+Fenix Simulations, PMDG, FSDreamTeam/GSX, SimBrief/Navigraph, AMD or any
+add-on developer. All product names and trademarks are the property of their
+owners and are used for identification only.
+
+You are responsible for complying with the terms of the third-party services
+the Software accesses and with the licences of the add-ons you install or
+manage with it.
