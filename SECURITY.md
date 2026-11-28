@@ -57,6 +57,12 @@ SimFleet is designed to run locally on your machine:
   stored in a portable `data/` folder next to the executable, falling back to
   `%LOCALAPPDATA%\SimFleet\data`.
 - **No telemetry.** The app does not collect or transmit usage analytics.
+- **Licence sign-in.** SimFleet signs in with your Google account through
+  Supabase to check your licence. The licence server stores your Google email
+  and name, a salted identifier of your PC (not a serial number or any
+  personal data) and its network name, and the app version, time and IP
+  address of each activation and check. Your session is kept encrypted on your
+  PC with Windows' DPAPI. Signing out frees your PC's licence slot.
 - **Cloud sync is opt-in.** Flight-log and preference sync signs in with your
   Google account and writes only to the app's private `appDataFolder` in your
   Drive. Nothing is synced until you connect it.
